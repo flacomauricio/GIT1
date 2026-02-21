@@ -7,4 +7,8 @@ modificar en rama-funcion
 "linea desde rama-remota"
 
 linea cargada desde GITHUB en rama-remota
+
 "cambio local realizado en rama-remota"
+
+cambio remoto en rama-remota desde github
+
